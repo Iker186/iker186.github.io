@@ -13,23 +13,21 @@ export class EducationComponent {
 
   ngOnInit(): void {
     let work1 = {
-      fecha: "2018-2022",
-      ubicacion: "Ixtac Ver.",
-      puesto: "CEO",
-      empresa: "Waves Lab",
+      fecha: "2019-2022",
+      ubicacion: "Cordoba Ver.",
+      puesto: "Estudiante",
+      empresa: "CBTIS 47",
       logros : [
-        { descripcion : "Construccion de un ERP en la nube de google" },
-        { descripcion : "Creacion de un cluster en hadoop y spark" }
+        { descripcion : "Estudiante de la carrera de Programacion" }
       ]
     };
     let work2 = {
-      fecha: "2014-2018",
-      ubicacion: "Orizaba Ver.",
-      puesto: "CEO",
-      empresa: "Kubeet",
+      fecha: "2022-actualidad",
+      ubicacion: "Cordoba Ver.",
+      puesto: "Estudiante",
+      empresa: "Universidad Veracruzana",
       logros : [
-        { descripcion : "Construccion de un invernadero hidroponico" },
-        { descripcion : "Creacion de un dron autonomo" }
+        { descripcion : "Estudiante de la carrera de Ingenieria de Software" }
       ]
     };
 

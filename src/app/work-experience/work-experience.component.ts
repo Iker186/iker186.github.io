@@ -22,7 +22,7 @@ export class WorkExperienceComponent {
         { descripcion : "Conexion a base de datos" }
       ]
     };
-   
+
     this.workExperience.push(work1);
     console.log(this.workExperience);
   }
