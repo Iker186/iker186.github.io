@@ -23,7 +23,6 @@ export class WorkExperienceComponent {
       ]
     };
     
-
     this.workExperience.push(work1);
     console.log(this.workExperience);
   }
