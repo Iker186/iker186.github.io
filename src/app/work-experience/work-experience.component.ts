@@ -18,8 +18,8 @@ export class WorkExperienceComponent {
       puesto: "Estudiante",
       empresa: "GameStore",
       logros : [
-        { descripcion : "Contruccion de sitio web" },
-        { descripcion : "Conexiona a base de datos" }
+        { descripcion : "Construccion de sitio web" },
+        { descripcion : "Conexion a base de datos" }
       ]
     };
     
